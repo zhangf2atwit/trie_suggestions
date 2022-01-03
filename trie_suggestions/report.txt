@@ -1,0 +1,15 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp2350.grading.A6Grading#test00_SmallContains: +24
+edu.wit.cs.comp2350.grading.A6Grading#test01_SmallDoesNotContain: +5
+edu.wit.cs.comp2350.grading.A6Grading#test06_SmallSuggestions: +5
+edu.wit.cs.comp2350.grading.A6Grading#test02_10000Contains: +24
+edu.wit.cs.comp2350.grading.A6Grading#test03_10000DoesNotContain: +5
+edu.wit.cs.comp2350.grading.A6Grading#test07_10000Suggestions: +5
+edu.wit.cs.comp2350.grading.A6Grading#test08_10000Fast: +5
+edu.wit.cs.comp2350.grading.A6Grading#test04_SOWPODSContains: +10
+edu.wit.cs.comp2350.grading.A6Grading#test05_SOWPODSDoesNotContain: +5
+edu.wit.cs.comp2350.grading.A6Grading#test09_SOWPODSSuggFast: +5
+edu.wit.cs.comp2350.grading.A6Grading#test10_SOWPODSSuggCorrect: +5
+edu.wit.cs.comp2350.grading.A6Grading#test11_PublicMethods: +2
